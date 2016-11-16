@@ -5,7 +5,7 @@ title: Nevoroshkina
 description: "This is portfolio site for Nevoroshkina Tanya"
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "" #important: start with /
-url: "http://nevoroshkina.com"
+# url: "http://nevoroshkina.com"
 
 # Build settings
 markdown: kramdown
